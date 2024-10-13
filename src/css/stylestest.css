@@ -5,3 +5,7 @@ p {
 h1 {
     font-size: 40px;
 }
+
+.test {
+    color: red;
+}
